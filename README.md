@@ -9,7 +9,7 @@ toggle on
 
 
 Back snippet
-It's highly recommended that you create a specific field to use this code. In my case, I just created the "Query" field
+(It's highly recommended that you create a specific field to use this code. In my case, I just created the "Query" field)
 
 {{#Query}}
 
