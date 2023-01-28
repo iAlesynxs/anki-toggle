@@ -87,3 +87,5 @@ transition: background-color 0.15s ease-out;
 .extra_toggle:hover {
   color: rgba(0,0,128);
 }
+
+Thanks for Aline on Telegram for sharing this code with me :)
